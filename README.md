@@ -1,3 +1,3 @@
-Hallo, this is @emm-gti
+Hallo, this is emm-gti
 
 
